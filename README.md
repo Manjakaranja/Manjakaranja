@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Manjakasoa 👋
 
-<!--
-**Manjakaranja/Manjakaranja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer focused on building data pipelines, cloud analytics platforms and modern data architectures.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python • SQL • PySpark • Databricks • Apache Airflow • AWS • PostgreSQL • Docker • MLflow
+
+## Featured Projects
+
+### 📊 Steam Analytics Lakehouse (Steam_project_2026)
+Built a Databricks Lakehouse using PySpark, Delta Lake and AWS S3.
+
+### 🌍 Travel Analytics Platform (Kayak_V2_project_2026)
+Built automated ETL pipelines using Apache Airflow, Scrapy, Playwright, PostgreSQL and AWS.
+
+### ✈️ Flight Delay Prediction Platform (PPML)
+Developed an end-to-end machine learning platform using Python, MLflow, FastAPI and Docker.
+
+## Connect
+
+Potfolio: https://manjaka.carrd.co/
+LinkedIn: https://www.linkedin.com/in/manjakasoa-loyola-ranjatoson/
