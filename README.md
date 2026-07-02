@@ -2,11 +2,11 @@
 
 Data Engineer based in Paris, focused on building data pipelines, cloud analytics platforms, and modern data architectures.
 
-## Technologies 🛠️
+## Technologies 
 
 Python • SQL • PySpark • Databricks • Apache Airflow • AWS • PostgreSQL • Docker • MLflow
 
-## Featured Projects 📊
+## Featured Projects 
 
 * #### Steam Analytics Lakehouse -  Steam_project_2026
 
