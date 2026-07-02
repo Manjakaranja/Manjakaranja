@@ -20,6 +20,10 @@ Built automated ETL pipelines using Apache Airflow, Scrapy, Playwright, PostgreS
 
 Developed an end-to-end machine learning platform using Python, MLflow, FastAPI, Docker, and AWS for batch and real-time flight delay prediction.
 
+* #### Car Rental Analytics & Pricing Platform - Getaround_project_2026
+
+Built an end-to-end analytics and MLOps platform using Python, MLflow, FastAPI, Docker, and XGBoost to analyse rental delays and deliver real-time car pricing recommendations.
+
 ## About Me
 
 * 🎓 Professional Data Engineering Programme at Jedha
