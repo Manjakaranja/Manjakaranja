@@ -1,72 +1,144 @@
 # Hi, I'm Manjakasoa 👋
 
-Data Engineer based in Paris with nearly four years of professional experience managing data migration projects and delivering business-critical data initiatives. To strengthen my technical expertise, I completed a Bachelor's degree in Data Engineering, where I designed and implemented end-to-end data platforms covering ETL/ELT pipelines, Lakehouse architectures, real-time streaming, machine learning, and Generative AI applications.
+**Data Engineer | Data Scientist based in Paris**
 
-## Technologies
+I build end-to-end data and machine learning solutions, from data ingestion and transformation to predictive modelling, APIs and production-oriented applications.
+
+I have nearly four years of professional experience managing data migration and data quality projects, and a Bachelor's degree in Data Engineering & Data Science. My projects cover Data Engineering, Machine Learning and applied AI using technologies such as Python, SQL, Databricks, PySpark, AWS, Kafka, XGBoost and MLflow.
+
+## Tech Stack
 
 ### Data Engineering
 Python • SQL • PySpark • Databricks • Delta Lake • Apache Airflow • Apache Kafka • PostgreSQL • AWS
 
-### AI & MLOps
-LangChain • MLflow • FastAPI • Mistral AI
+### Data Science & Machine Learning
+Pandas • NumPy • Scikit-learn • XGBoost • PyTorch • Transformers
 
-### DevOps
-Docker • Git • Bash
+### MLOps & AI
+MLflow • FastAPI • Docker • LangChain • Mistral AI • Streamlit
 
-## Selected Projects
+### Development
+Git • Bash
 
-### Steam Analytics Lakehouse
-**Databricks • PySpark • Delta Lake • AWS S3**
+## Featured Projects
 
-Designed and implemented a Medallion Lakehouse architecture with Bronze, Silver, and Gold layers, ETL pipelines, dimensional modelling, Delta Lake optimizations, and business-oriented data marts to analyse the global Steam video game market.
+### 🎮 Steam Analytics Lakehouse
+**Databricks • PySpark • Delta Lake • AWS S3 • SQL**
 
-Repository: **Steam_project_2026**
+Built a Medallion Lakehouse architecture to transform Steam catalogue data into analytics-ready datasets.
 
----
+- Bronze, Silver and Gold data layers
+- PySpark ETL pipelines
+- Dimensional modelling with fact, dimension and bridge tables
+- 5 business-oriented data marts
+- Delta Lake optimization with `OPTIMIZE` and `ZORDER`
 
-### Flight Delay Prediction Platform
-**AWS • MLflow • FastAPI • Docker • XGBoost**
+**Focus:** Data Engineering • Lakehouse • Analytics Engineering
 
-Built an end-to-end data and machine learning platform integrating ETL pipelines, an AWS Data Lake, MLflow model management, and a containerised REST API for real-time flight delay prediction.
-
-Repository: **PPML**
-
----
-
-### Car Rental Analytics & Pricing Platform
-**Python • XGBoost • MLflow • FastAPI • Docker**
-
-Developed an end-to-end analytics and MLOps platform to analyse rental delays and deploy a real-time vehicle pricing model using MLflow, FastAPI, Docker, and XGBoost.
-
-Repository: **Getaround_project_2026**
+[View repository](REPOSITORY_URL)
 
 ---
 
-### Stock Query
-**Apache Kafka • PostgreSQL • LangChain • Mistral AI • Auth0 • Streamlit**
+### ✈️ Flight Delay Prediction Platform
+**AWS • XGBoost • MLflow • FastAPI • Docker**
 
-Developed a real-time event-driven data platform streaming stock market data into PostgreSQL and enabling natural language querying through a LangChain SQL Agent powered by Mistral AI.
+Built an end-to-end machine learning platform for predicting flight delays from multi-source aviation data.
 
-Repository: **stock-market-ai-platform-mvp**
+- ETL pipeline and AWS S3 Data Lake
+- Classification and regression models with XGBoost
+- Experiment tracking and model management with MLflow
+- REST API for real-time inference
+- Containerised deployment with Docker
+- **F1-score: 0.87 | MAE: 6.98 minutes**
+
+**Focus:** Machine Learning • MLOps • Data Engineering
+
+[View repository](REPOSITORY_URL)
 
 ---
 
-### Travel Analytics Platform
-**Apache Airflow • PostgreSQL • AWS • Scrapy • Playwright**
+### 📈 Real-Time Stock Market AI Platform
+**Kafka • PostgreSQL • LangChain • Mistral AI • Streamlit**
 
-Designed and orchestrated automated ETL pipelines with Apache Airflow to collect, transform, and analyse travel data from APIs and web sources.
+Built an event-driven platform for streaming and querying financial market data.
 
-Repository: **Kayak_V2_project_2026**
+- Real-time ingestion with Apache Kafka
+- PostgreSQL storage layer
+- Python producer and consumer services
+- Natural-language SQL querying with LangChain and Mistral AI
+- Multi-user authentication
+- Interactive Streamlit application
 
-## About Me
+**Focus:** Streaming • Data Engineering • Generative AI
 
-- Nearly 4 years of professional experience managing data migration projects at Emeria Group.
-- Bachelor's degree in Data Engineering from Jedha.
-- Founder & President of Rano Sans Frontières.
-- Interested in Data Engineering, Cloud Platforms, Data Streaming, Machine Learning, and Generative AI.
+[View repository](REPOSITORY_URL)
+
+---
+
+### 🚗 Car Rental Pricing & Analytics
+**Python • XGBoost • Scikit-learn • MLflow • FastAPI • Docker**
+
+Developed a machine learning platform to analyse rental delays and predict vehicle rental prices.
+
+- Exploratory data analysis and feature engineering
+- XGBoost regression model
+- Model evaluation and experiment tracking
+- MLflow model management
+- REST inference API with FastAPI
+- Dockerised application
+
+**Focus:** Data Science • Machine Learning • MLOps
+
+[View repository](REPOSITORY_URL)
+
+---
+
+### 💬 SMS Spam Detection with DistilBERT
+**PyTorch • Transformers • Hugging Face • Scikit-learn**
+
+Fine-tuned DistilBERT for binary SMS spam classification using transfer learning.
+
+- Data cleaning and preprocessing
+- Transformer tokenization
+- DistilBERT fine-tuning
+- Model evaluation and confusion matrix analysis
+- **Accuracy: 0.99 | Weighted F1: 0.99**
+
+**Focus:** NLP • Deep Learning • Transformers
+
+[View repository](REPOSITORY_URL)
+
+---
+
+## Professional Background
+
+Before specialising technically in Data Engineering & Data Science, I spent nearly four years managing data migration projects at **Emeria Group**.
+
+- Managed approximately **30 data migration projects**
+- Worked with datasets containing up to **70,000 records**
+- Defined mapping, transformation and standardisation rules
+- Performed data quality and migration validation using **SQL and PostgreSQL**
+- Coordinated business, IT and operational stakeholders
+- Achieved **>92% on-time delivery** and **<3% post-deployment anomalies**
+
+This experience gives me both a technical and business-oriented approach to data projects.
+
+## Education
+
+**Bachelor's – Data Engineering & Data Science**  
+Jedha, Paris
+
+**Master's – International Management**  
+EMD, Marseille
+
+**Master's – Corporate Finance**  
+EMD, Marseille
+
+## Currently Interested In
+
+Data Engineering • Data Science • Machine Learning • MLOps • Cloud Data Platforms • Real-Time Data • Generative AI
 
 ## Connect
 
-Portfolio: https://manjaka.carrd.co/
-
-LinkedIn: https://www.linkedin.com/in/manjakasoa-loyola-ranjatoson/
+🌐 Portfolio: https://manjaka.carrd.co/  
+💼 LinkedIn: https://www.linkedin.com/in/manjakasoa-loyola-ranjatoson/
