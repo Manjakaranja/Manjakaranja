@@ -35,7 +35,7 @@ Built a Medallion Lakehouse architecture to transform Steam catalogue data into 
 
 **Focus:** Data Engineering • Lakehouse • Analytics Engineering
 
-[View repository]([REPOSITORY_URL](https://github.com/Manjakaranja/Steam_project_2026))
+[View repository](https://github.com/Manjakaranja/Steam_project_2026)
 
 ---
 
@@ -53,7 +53,7 @@ Built an end-to-end machine learning platform for predicting flight delays from 
 
 **Focus:** Machine Learning • MLOps • Data Engineering
 
-[View repository]([REPOSITORY_URL](https://github.com/Manjakaranja/PPML))
+[View repository](https://github.com/Manjakaranja/PPML)
 
 ---
 
@@ -71,7 +71,7 @@ Built an event-driven platform for streaming and querying financial market data.
 
 **Focus:** Streaming • Data Engineering • Generative AI
 
-[View repository]([REPOSITORY_URL](https://github.com/Manjakaranja/stock-market-ai-platform-mvp))
+[View repository](https://github.com/Manjakaranja/stock-market-ai-platform-mvp)
 
 ---
 
@@ -89,7 +89,7 @@ Developed a machine learning platform to analyse rental delays and predict vehic
 
 **Focus:** Data Science • Machine Learning • MLOps
 
-[View repository]([REPOSITORY_URL](https://github.com/Manjakaranja/Getaround_project_2026))
+[View repository](https://github.com/Manjakaranja/Getaround_project_2026)
 
 ---
 
@@ -106,7 +106,7 @@ Fine-tuned DistilBERT for binary SMS spam classification using transfer learning
 
 **Focus:** NLP • Deep Learning • Transformers
 
-[View repository]([REPOSITORY_URL](https://github.com/Manjakaranja/ATnT_project_2026))
+[View repository](https://github.com/Manjakaranja/ATnT_project_2026)
 
 ---
 
